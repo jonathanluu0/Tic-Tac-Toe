@@ -1,8 +1,41 @@
 #board {
-  margin-top: 10px;
+  margin: 100px 0px 0px 300px;
+
 }
 
 .box {
-  border: 1px solid black;
-  height: 150px;
+  border: 3px solid black;
+  height: 175px;
+  width: 175px;
+  font-size: 5em;
+  text-align: center;
+  vertical-align: center;
+  padding-top: 20px;
+  border-radius: 20px;
+  size: contain;
+}
+body {
+  background: url("https://wallpaperset.com/w/full/9/e/4/213078.jpg") no-repeat center center fixed;
+  background-size: cover;
+
+}
+hr{
+  size: 5px;
+
+}
+.text-center{
+  padding-top:20px;
+}
+h1{
+  font-family:fantasy;
+  padding-top: 10px;
+  color: #FFF0F5;
+  font-size: 50px;
+  text-shadow: 2px 2px 5px black;
+
+}
+
+button {
+ margin-top: 20px;
+ margin-left: 0px;
 }
